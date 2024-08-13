@@ -54,3 +54,9 @@ chmod +x docker-utils/postgres-database.sh
 ```shell
 docker-compose up --build
 ```
+
+## Instale Pacotes do GraphQL 
+
+```shell
+npm install --save @nestjs/graphql @nestjs/typeorm type-graphql typeorm graphql graphql-tools apollo-server-express 
+```
