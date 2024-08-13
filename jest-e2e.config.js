@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 module.exports = {
   setupFiles: ['./test/setEnvVars.js'],
   moduleFileExtensions: ['js', 'ts'],
